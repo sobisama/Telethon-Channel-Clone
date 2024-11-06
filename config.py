@@ -1,6 +1,6 @@
 class Config():
-    API_ID = ""
-    API_HASH = ""
+    API_ID = "24701679"
+    API_HASH = "a978ea709f0ae11676ff04521f556d13"
     PHONE_NUMBER = "+91987654321"
     NAME = "GreyTime"
     SRC_CHAT_ID = -1001234567890
